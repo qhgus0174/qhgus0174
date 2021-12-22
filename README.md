@@ -1,16 +1,27 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Kim%20BoHyun&fontSize=70)
 
-<!--
-**qhgus0174/qhgus0174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<center> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hi there 👋
+
+I'm a growing deveolper. 🌱
+
+I pursue value through development.
+
+<br />
+
+#### 🛠 Tech Stack 🛠
+
+<br />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />  <img src="https://img.shields.io/badge/Next-ffffff?style=flat-square&logo=Next.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=black" />
+<br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=black" />
+<br />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mssql-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=black" />
+</center>
